@@ -2,13 +2,13 @@
 
 ## <u> Outline</u>
 1. Keypoint.
-2. Introduction.
-2.1 What is recursion.
-2.2 Example.
-2.3 Basic structure of a recursive function.
-2.4 How does recursion work.
+2. Introduction.<br/>
+2.1 What is recursion.<br/>
+2.2 Example.<br/>
+2.3 Basic structure of a recursive function.<br/>
+2.4 How does recursion work.<br/>
 3. Illustration.
-3.1 Example.
+3.1 Example.<br/>
 4. Exercise.
 5. Conclusion.
 
