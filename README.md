@@ -2,11 +2,15 @@
 
 ## <u> Outline</u>
 1. Keypoint.
-1. Introduction.
-1. Illustration.
-1. Example.
-1. Exercise.
-1. Conclusion.
+2. Introduction.
+2.1 What is recursion.
+2.2 Example.
+2.3 Basic structure of a recursive function.
+2.4 How does recursion work.
+3. Illustration.
+3.1 Example.
+4. Exercise.
+5. Conclusion.
 
 ## key Point
 - **<u>Base case (stopping case):</u>** Its a part of the recursion , where the condition  evaluates the current inputs and terminates the recursive function.
